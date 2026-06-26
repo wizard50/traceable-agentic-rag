@@ -1,8 +1,9 @@
 [project]
 name = "traceable-agentic-rag"
 version = "0.1.0"
-description = "Traceable Agentic RAG"
+description = "Rust Book Documentation Assistant with Agentic RAG, tracing, and evaluation"
 readme = "README.md"
+license = { file = "LICENSE" }
 requires-python = ">=3.13"
 
 dependencies = [

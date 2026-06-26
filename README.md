@@ -1,6 +1,8 @@
 # Traceable Agentic RAG
 
-FastAPI Documentation Assistant with Agentic RAG, tracing, and evaluation.
+Rust Book Documentation Assistant with Agentic RAG, tracing, and evaluation.
+
+Source material: [The Rust Programming Language](https://github.com/rust-lang/book) (`src/` folder, cloned to `data/download/`).
 
 ## Setup
 
@@ -18,3 +20,7 @@ uv run ty check
 ```
 
 See [AGENTS.md](AGENTS.md) for architecture and implementation guidance.
+
+## License
+
+MIT — see [LICENSE](LICENSE).

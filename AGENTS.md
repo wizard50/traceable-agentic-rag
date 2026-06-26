@@ -3,6 +3,7 @@
 ## Project Overview
 - **Name**: traceable-agentic-rag
 - **Goal**: Build a production-minded Agentic RAG system with strong observability and evaluation.
+- **Domain**: The Rust Programming Language book ([rust-lang/book](https://github.com/rust-lang/book)) — clone the repo into `data/download/` and ingest the `src/` folder.
 - **Core Focus**: Agentic behavior (query rewriting + multi-step reasoning), full tracing (Phoenix), and automated evaluation (retrieval + faithfulness).
 
 ## Tech Stack & Key Decisions
